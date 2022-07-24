@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo Frameworks/Linguagens Front-End e linguagens Back-End
 - 🤔 Sempre disposto a ajudar e ser ajudado
 
-<div align="center">
+<div align="center" style="display:flex; flex-direction:row">
   <a href="https://github.com/BrenoCGS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoCGS&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCGS&layout=compact&langs_count=7&theme=synthwave"/>
