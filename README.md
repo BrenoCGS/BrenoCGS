@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Breno Guedes 👋
 
 
-- 🔭 Atualmente trabalho na Top Alto Alimentos como Estagiário de TI
+- 👨‍🎓 Formado em Desenvolvimento Full-Stack pela Infinity School e atualmente cursando Sistemas de Informação na Faculdade Estácio 
 - 🌱 Estou aprendendo Frameworks/Linguagens Front-End e linguagens Back-End
 - 🤔 Sempre disposto a ajudar e ser ajudado
+
+Meu LinkedIn - https://www.linkedin.com/in/bguedesdev
 
 <div align="center" style="display:flex; flex-direction:row">
   <a href="https://github.com/BrenoCGS">
