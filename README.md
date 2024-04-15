@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Formado em Desenvolvimento Full-Stack pela Infinity School e atualmente cursando Sistemas de Informação na Faculdade Estácio 
-- 🌱 Estou aprendendo Frameworks/Linguagens Front-End e linguagens Back-End
+- 🌱 Desenvolvedor Full-Stack
 - 🤔 Sempre disposto a ajudar e ser ajudado
 
 Meu LinkedIn - https://www.linkedin.com/in/bguedesdev
