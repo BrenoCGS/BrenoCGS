@@ -21,7 +21,7 @@ Meu LinkedIn - https://www.linkedin.com/in/bguedesdev
   <img align="center" alt="Breno-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">       
   <img align="center" alt="Breno-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Breno-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Breno-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/github.png">
+  <img align="center" alt="Breno-php" height="88" width="31" src="https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/github.png">
   
   ##
 
