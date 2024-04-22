@@ -11,6 +11,8 @@ Meu LinkedIn - https://www.linkedin.com/in/bguedesdev
   <a href="https://github.com/BrenoCGS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoCGS&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCGS&layout=compact&langs_count=7&theme=synthwave"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
