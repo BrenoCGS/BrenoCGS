@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Breno Guedes 👋
 
 
-- 👨‍🎓 Formado em Desenvolvimento Full-Stack pela Infinity School e atualmente cursando Sistemas de Informação na Faculdade Estácio 
+- 👨‍🎓 Formado em Desenvolvimento Full-Stack pela Infinity School e atualmente cursando Sistemas de Informação na Universidade Estácio 
 - 🌱 Desenvolvedor Full-Stack
 - 🤔 Sempre disposto a ajudar e ser ajudado
 
