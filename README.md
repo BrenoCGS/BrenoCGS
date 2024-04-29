@@ -1,19 +1,19 @@
 ## Olá! Eu sou o Breno Guedes 👋
 
-
+- 💻 Eu sou um Desenvolvedor Full-Stack
 - 👨‍🎓 Formado em Desenvolvimento Full-Stack pela Infinity School e atualmente cursando Sistemas de Informação na Universidade Estácio 
-- 🌱 Desenvolvedor Full-Stack
+- 👩‍💻 Atualmente eu trabalho como Desenvolvedor Full-Stack Pleno @ OC Open - Hospital Geral Roberto Santos
 - 🤔 Sempre disposto a ajudar e ser ajudado
 
 Meu LinkedIn - https://www.linkedin.com/in/bguedesdev
 
-<div align="center" style="display:flex; flex-direction:row">
-  <a href="https://github.com/BrenoCGS">
-  
-
- 
-
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/BrenoCGS">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCGS&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoCGS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
